@@ -6,7 +6,7 @@ export function Skills() {
       <h1>Skills</h1>
       <p>
         Eu crio sites responsivos fáceis de usar e construidos com as melhores
-        práticas. Minha área de especialização é Desenvolvimento Web Fornt-End,
+        práticas. Minha área de especialização é Desenvolvimento Web Front-End,
         utilizando as melhores ferramentas disponiveis no mercado atualmente,
         HTML, CSS, Sass, Styled-components, Javascript, Typescript, ReactJs...
       </p>
