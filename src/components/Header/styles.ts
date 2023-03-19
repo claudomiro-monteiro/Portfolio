@@ -13,6 +13,7 @@ export const HeaderContainer = styled.header`
   img {
     height: 4rem;
     padding: 0 2rem;
+    cursor: pointer;
   }
 `
 

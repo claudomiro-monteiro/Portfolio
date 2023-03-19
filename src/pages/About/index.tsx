@@ -5,8 +5,8 @@ export function About() {
     <AboutContainer id="sobre">
       <h1>Sobre</h1>
       <p>
-        Sou o Claudomiro, tenho 39 anos, comecei a estudar programação lá em
-        2011, estudava Delphi e Firebird.
+        Sou o Claudomiro, comecei a estudar programação lá em 2011, estudava
+        Delphi e Firebird.
       </p>
       <p>
         Meu primeiro contato com banco de dados foi com o Access do Pacote
@@ -20,9 +20,9 @@ export function About() {
         de programar foi acabando.
       </p>
       <p>
-        Em 2019 conheci a Rocketseat e vontade de programar voltou novamente, ai
-        me interessei em estudar Javascript, aprofundar no HTML e CSS, fui
-        conhecendo frameworks e bibliotecas...
+        Em 2019 conheci a Rocketseat e vontade de programar voltou novamente, em
+        2022 decidi estudar Javascript, aprofundar no HTML e CSS, fui conhecendo
+        frameworks e bibliotecas...
       </p>
       <p>
         Atualmente gosto muito de ReactJs, me identifico muito com Front End, me
